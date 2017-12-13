@@ -1,3 +1,8 @@
 java git controller we will learn git hard.
  java git controller we will learn git hard.
+<<<<<<< HEAD
  java is a good lunager
+=======
+ java is a good lunager`
+nijao a dog
+>>>>>>> branch1
